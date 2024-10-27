@@ -1,0 +1,3 @@
+- [ ] gcc for treesitter?
+- :TSInstall java
+- look at pictures
