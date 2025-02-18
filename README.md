@@ -7,3 +7,5 @@ Probably you are going to need dependencies such as:
  - Python
  - Node js
  - gcc
+ - Fonts with Powerline characters (latest Win 11 Cascadia Mono seem to have that)
+ - git
